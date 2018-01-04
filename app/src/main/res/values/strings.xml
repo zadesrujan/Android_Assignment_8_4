@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android_Assignment_8_4</string>
+    <array name="versions">
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Icecream</item>
+        <item>Jellybean</item>
+        <item>Kitkat</item>
+        <item>Lolipop</item>
+    </array>
+</resources>
